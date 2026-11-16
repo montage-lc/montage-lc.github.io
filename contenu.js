@@ -4,8 +4,9 @@ window.CONTENU = {
   "metier": "Monteur vidéo / Motion designer",
   "annee": "2026",
   "titreOnglet": "{nom} — monteur vidéo et motion designer à distance",
-  "description": "Monteur vidéo à distance pour youtubeurs, créateurs, marques et agences : montage, motion design, sound design, sous-titres. Cinq montages à voir, dont un avant / après, contact direct.",
+  "description": "Monteur vidéo à distance pour youtubeurs, créateurs, marques et agences : montage, motion design, sound design, sous-titres. Trois montages à voir, dont un avant / après, contact direct.",
   "appelHaut": "Un projet vidéo ? Écrivez-moi ↓",
+  "appelFixe": "Me contacter",
   "identite": [
     "{nom}",
     "MONTEUR VIDÉO",
@@ -55,18 +56,6 @@ window.CONTENU = {
       "sous": "film de voyage",
       "duree": "0:49",
       "credit": "Montage, effets, son, étalonnage : {nom}"
-    },
-    "miami": {
-      "titre": "Montage Miami",
-      "sous": "Miami Beach, de nuit",
-      "duree": "0:50",
-      "credit": "Montage, effets, son, étalonnage : {nom}"
-    },
-    "onepiece": {
-      "titre": "Montage One Piece",
-      "sous": "edit d’animé",
-      "duree": "1:23",
-      "credit": "Montage, effets, sous-titres : {nom}"
     }
   },
   "voirFilm": "Regarder",
